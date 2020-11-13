@@ -1,0 +1,32 @@
+{
+  "name": "@fluid-music/recipes",
+  "version": "0.0.1",
+  "description": "official fluid music recipes",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/fluid-music/recipes.git"
+  },
+  "keywords": [
+    "fluid-music"
+  ],
+  "author": "Charles Holbrow",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fluid-music/recipes/issues"
+  },
+  "homepage": "https://github.com/fluid-music/recipes#readme",
+  "dependencies": {
+    "ramda": "^0.27.1"
+  },
+  "peerDependencies": {
+    "fluid-music": ">= 0.6.0-2"
+  },
+  "devDependencies": {
+    "mocha": "^8.2.1",
+    "should": "^13.2.3"
+  }
+}
