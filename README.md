@@ -41,7 +41,7 @@ npm i fluid-music @fluid-music/recipes # install fluid-music and recipes package
 }
 ```
 
-To create a `.RPP` [Reaper](https://reaper.fm) file  
+To create a `.RPP` ([Reaper](https://reaper.fm)) file from the score:
 
 ```javascript
 // run.js
